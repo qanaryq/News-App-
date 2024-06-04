@@ -8,7 +8,7 @@
 
 ![Forgot Password Screen](https://github.com/qanaryq/News-App-/assets/131808077/47b13d71-bfeb-462a-a980-68c2f0b42462)
 
-### If you click on "I Forgot Password", you will see this screen. By entering your email and clicking on "Reset Password", a password reset email will be sent to your email address.
+### If you click on "I Forgot Password?", you will see this screen. By entering your email and clicking on "Reset Password", a password reset email will be sent to your email address.
 
 # Registration Screen
 
